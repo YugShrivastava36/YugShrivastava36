@@ -10,6 +10,6 @@
 - QR Code Generator for my website  
 
 ## 🌐 My Website
-- Visit my website!
-- Link:  https://yugshrivastava36.github.io/astronomy-website/
-
+- Visit my websites!
+- Website 1 (astronomy=website):  https://yugshrivastava36.github.io/astronomy-website/
+- Wesbite 2 (astronomy-simple):   https://yugshrivastava36.github.io/astronomy-simple/
