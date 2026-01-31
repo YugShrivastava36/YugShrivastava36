@@ -8,7 +8,6 @@
 - Circumference and Area of a Circle Calculator  
 - Hypotenuse Calculator for Right-Angled Triangles  
 - QR Code Generator for my website
-- A fixed response chatbot (still in development)
 
 ## 🌐 My Websites
 - Visit my websites!
